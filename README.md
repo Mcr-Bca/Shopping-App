@@ -9,16 +9,11 @@ This project demonstrates the implementation of a full-stack web application usi
 🚀 Features
     
     *User-friendly interface for browsing products
-    
-   *Add to cart and remove from cart functionality
-   
-   *Secure user login and registration system
-    
-   *Product search and filtering options
-    
-   *Order management system
-    
-   *Responsive design for mobile and desktop
+    *Add to cart and remove from cart functionality
+    *Secure user login and registration system
+    *Product search and filtering options
+    *Order management system
+     *Responsive design for mobile and desktop
     
 🛠️ Technologies Used
   
