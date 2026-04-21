@@ -8,7 +8,7 @@ This project demonstrates the implementation of a full-stack web application usi
 
 🚀 Features
     
-   *User-friendly interface for browsing products
+    *User-friendly interface for browsing products
     
    *Add to cart and remove from cart functionality
    
