@@ -7,13 +7,12 @@ The Shopping App is a dynamic and user-friendly e-commerce web application desig
 This project demonstrates the implementation of a full-stack web application using modern frontend design techniques and robust backend functionality. It focuses on usability, responsiveness, and smooth interaction between client and server.
 
 🚀 Features
-    
     *User-friendly interface for browsing products
     *Add to cart and remove from cart functionality
     *Secure user login and registration system
     *Product search and filtering options
     *Order management system
-     *Responsive design for mobile and desktop
+    *Responsive design for mobile and desktop
     
 🛠️ Technologies Used
   
