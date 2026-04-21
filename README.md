@@ -13,18 +13,22 @@ This project demonstrates the implementation of a full-stack web application usi
     *Product search and filtering options
     *Order management system
     *Responsive design for mobile and desktop
+    
 🛠️ Technologies Used
   🌐 Frontend
     *HTML – Structure of web pages
     *CSS – Styling and layout
     *Bootstrap – Responsive design and UI components
+    
   🗄️ Backend
     *MySQL – Database management system for storing user and product data
   ⚙️ Server-Side Scripting
     *PHP – Handles server logic, authentication, and database interactions
+    
   💻 Client-Side Scripting
     *JavaScript – Adds interactivity and dynamic behavior
     *AngularJS – Enhances frontend with MVC architecture
+    
 📌 Future Improvements
     *Payment gateway integration
     *Admin dashboard
