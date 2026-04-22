@@ -35,7 +35,7 @@ This project demonstrates the implementation of a full-stack web application usi
     
     *JavaScript – Adds interactivity and dynamic behavior
     *AngularJS – Enhances frontend with MVC architecture
-
+Some ScreenSort
  ![image alt](https://github.com/Mcr-Bca/Shopping-App/blob/1fd81fb8291b452ae31c298af77a979289563ffb/Screenshot%202026-04-22%20194519.png)
     
 📌 Future Improvements
