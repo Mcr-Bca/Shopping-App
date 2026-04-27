@@ -43,7 +43,7 @@ This project demonstrates the implementation of a full-stack web application usi
    📂 Project Structure
   app_temp/
 
-   │── shop.html
+   │── index.html
 
    │── d1.html
 
