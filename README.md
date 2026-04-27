@@ -8,7 +8,7 @@ This project demonstrates the implementation of a full-stack web application usi
 
 🌐 Live Demo
    
-   👉 
+   👉 mcr-bca.github.io/Shopping-App/
    
 🚀 Features
     
@@ -88,9 +88,11 @@ Some ScreenSort
     *Advanced search and recommendations   
 
 ⭐ Feedback
+
     If you like this project, give it a ⭐ on GitHub!
 
 👨‍💻 Author
+
     RIYA GUPTA
     🎓 BSC(IT) Student
 
