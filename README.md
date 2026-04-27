@@ -42,31 +42,31 @@ This project demonstrates the implementation of a full-stack web application usi
    📂 Project Structure
   app_temp/
 
-   │── index.html
+    │── index.html
 
-   │── d1.html
+    │── d1.html
 
-   │── d2.html
-
-   │── d3.html
-
-   │── d4.html
-
-   │── d5.html
+    │── d2.html
  
-   │── d6.html
+    │── d3.html
 
-   │── p1.jpg
+    │── d4.html
 
-   │── t1.jpg
+    │── d5.html
+  
+    │── d6.html
 
-   │── m1.jpg
+    │── p1.jpg
 
-   │──k1.jpg
+    │── t1.jpg
+ 
+    │── m1.jpg
 
-   │──e1.jpg
+    │──k1.jpg
+ 
+    │──e1.jpg
 
-   │── README.md
+    │── README.md
    
    
 Some ScreenSort
