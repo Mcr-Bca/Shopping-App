@@ -8,7 +8,7 @@ This project demonstrates the implementation of a full-stack web application usi
 
 🌐 Live Demo
    
-   👉 mcr-bca.github.io/Shopping-App/
+    👉 mcr-bca.github.io/Shopping-App/
    
 🚀 Features
     
