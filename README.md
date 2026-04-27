@@ -6,6 +6,9 @@ The Shopping App is a dynamic and user-friendly e-commerce web application desig
 
 This project demonstrates the implementation of a full-stack web application using modern frontend design techniques and robust backend functionality. It focuses on usability, responsiveness, and smooth interaction between client and server.
 
+🌐 Live Demo
+   👉
+   
 🚀 Features
     
     *User-friendly interface for browsing products
@@ -35,10 +38,44 @@ This project demonstrates the implementation of a full-stack web application usi
     
     *JavaScript – Adds interactivity and dynamic behavior
     *AngularJS – Enhances frontend with MVC architecture
-Some ScreenSort
 
+   📂 Project Structure
+  app_temp/
+
+   │── shop.html
+
+   │── d1.html
+
+   │── d2.html
+
+   │── d3.html
+
+   │── d4.html
+
+   │── d5.html
+ 
+   │── d6.html
+
+   │── p1.jpg
+
+   │── t1.jpg
+
+   │── m1.jpg
+
+   │──k1.jpg
+
+   │──e1.jpg
+
+   │── README.md
+   
+Some ScreenSort
+ Home Page
  ![image alt](https://github.com/Mcr-Bca/Shopping-App/blob/1fd81fb8291b452ae31c298af77a979289563ffb/Screenshot%202026-04-22%20194519.png)
+
+ Search page
  ![image alt](https://github.com/Mcr-Bca/Shopping-App/blob/e4ca8ee7ed5bd285d54a1b1c0323df551dc63f34/Screenshot%202026-04-22%20194907.png) 
+
+  Search page
  ![image alt](https://github.com/Mcr-Bca/Shopping-App/blob/bf1ef4a8864dab48a96a0a19329bb5e1a51b76b1/Screenshot%202026-04-22%20194854.png)
  
 📌 Future Improvements
@@ -47,3 +84,12 @@ Some ScreenSort
     *Admin dashboard
     *Product reviews and ratings
     *Advanced search and recommendations   
+
+⭐ Feedback
+    If you like this project, give it a ⭐ on GitHub!
+
+👨‍💻 Author
+    RIYA GUPTA
+    🎓 BSC(IT) Student
+
+
