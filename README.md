@@ -7,7 +7,7 @@ The Shopping App is a dynamic and user-friendly e-commerce web application desig
 This project demonstrates the implementation of a full-stack web application using modern frontend design techniques and robust backend functionality. It focuses on usability, responsiveness, and smooth interaction between client and server.
 
 🌐 Live Demo
-   👉
+   👉 https://mcr-bca.github.io/Shopping-App/
    
 🚀 Features
     
